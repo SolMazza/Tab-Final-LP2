@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="br.org.fundatec.cep.service.CepServiceTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-07-04T00:14:07" hostname="balerion" time="0.724">
+  <properties/>
+  <testcase name="testaRemoverRegistroNaoEcontrado()" classname="br.org.fundatec.cep.service.CepServiceTest" time="0.724"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
